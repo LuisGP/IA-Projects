@@ -1,0 +1,183 @@
+-- Esto es un comentario, las lineas establecen
+-- ciudad de inicio y ciudad de fin de un "camino"
+-- que se toman como unidireccionales, por tanto,
+-- para que sean bidireccionales se deberan poner los
+-- dos sentidos
+Madrid - Segovia
+Madrid - Avila
+Madrid - Caceres
+Madrid - Badajoz
+Madrid - Toledo
+Madrid - Jaen
+Madrid - Cuenca
+Madrid - Guadalajara
+Madrid - Burgos
+Segovia - Madrid
+Segovia - Avila
+Segovia - Valladolid
+Avila - Madrid
+Avila - Segovia
+Avila - Salamanca
+Caceres - Madrid
+Caceres - Salamanca
+Caceres - Badajoz
+Badajoz - Madrid
+Badajoz - Caceres
+Badajoz - Sevilla
+Toledo - Madrid
+Toledo - Ciudad Real
+Cuenca - Madrid
+Cuenca - Albacete
+Cuenca - Valencia
+Jaen - Madrid
+Jaen - Cordoba
+Jaen - Granada
+Jaen - Ciudad Real
+Guadalajara - Madrid
+Guadalajara - Soria
+Guadalajara - Zaragoza
+Guadalajara - Teruel
+Burgos - Madrid
+Burgos - Valladolid
+Burgos - Palencia
+Burgos - Logroño
+Burgos - Santander
+Burgos - Vitoria
+Burgos - Soria
+Valladolid - Segovia
+Valladolid - Salamanca
+Valladolid - Leon
+Valladolid - Palencia
+Valladolid - Burgos
+Valladolid - Soria
+Salamanca - Zamora
+Salamanca - Valladolid
+Salamanca - Avila
+Salamanca - Caceres
+Ciudad Real - Toledo
+Ciudad Real - Cordoba
+Ciudad Real - Jaen
+Albacete - Cuenca
+Albacete - Murcia
+Albacete - Alicante
+Albacete - Valencia
+Valencia - Cuenca
+Valencia - Teruel
+Valencia - Castellon
+Valencia - Alicante
+Valencia - Albacete
+Teruel - Zaragoza
+Teruel - Guadalajara
+Teruel - Castellon
+Teruel - Valencia
+Zaragoza - Guadalajara
+Zaragoza - Soria
+Zaragoza - Logroño
+Zaragoza - Pamplona
+Zaragoza - Huesca
+Zaragoza - Lerida
+Zaragoza - Teruel
+Soria - Burgos
+Soria - Valladolid
+Soria - Guadalajara
+Soria - Zaragoza
+Palencia - Burgos
+Palencia - Valladolid
+Palencia - Leon
+Leon - Palencia
+Leon - Valladolid
+Leon - Zamora
+Leon - Lugo
+Leon - Oviedo
+Leon - Orense
+Zamora - Leon
+Zamora - Salamanca
+Sevilla - Badajoz
+Sevilla - Huelva
+Sevilla - Cadiz
+Sevilla - Malaga
+Sevilla - Cordoba
+Sevilla - Granada
+Cordoba - Ciudad Real
+Cordoba - Sevilla
+Cordoba - Jaen
+Granada - Sevilla
+Granada - Malaga
+Granada - Almeria
+Granada - Jaen
+Granada - Murcia
+Murcia - Granada
+Murcia - Alicante
+Murcia - Albacete
+Murcia - Almeria
+Alicante - Valencia
+Alicante - Albacete
+Alicante - Murcia
+Castellon - Valencia
+Castellon - Tarragona
+Castellon - Teruel
+Tarragona - Barcelona
+Tarragona - Lerida
+Tarragona - Castellon
+Lerida - Huesca
+Lerida - Zaragoza
+Lerida - Tarragona
+Lerida - Barcelona
+Lerida - Gerona
+Huesca - Lerida
+Huesca - Zaragoza
+Logroño - Pamplona
+Logroño - Zaragoza
+Logroño - Vitoria
+Logroño - Burgos
+Vitoria - San Sebastian
+Vitoria - Bilbao
+Vitoria - Pamplona
+Vitoria - Burgos
+Vitoria - Logroño
+Santander - Bilbao
+Santander - Burgos
+Santander - Oviedo
+Oviedo - Santander
+Oviedo - Leon
+Oviedo - Lugo
+Oviedo - La Coruña
+Lugo - La Coruña
+Lugo - Oviedo
+Lugo - Leon
+Lugo - Orense
+Orense - Leon
+Orense - Lugo
+Orense - Pontevedra
+Huelva - Sevilla
+Huelva - Cadiz
+Cadiz - Huelva
+Cadiz - Sevilla
+Cadiz - Malaga
+Malaga - Cadiz
+Malaga - Sevilla
+Malaga - Granada
+Malaga - Almeria
+Almeria - Malaga
+Almeria - Granada
+Almeria - Murcia
+Barcelona - Tarragona
+Barcelona - Lerida
+Barcelona - Gerona
+Gerona - Lerida
+Gerona - Barcelona
+Pamplona - Zaragoza
+Pamplona - Logroño
+Pamplona - Vitoria
+Pamplona - San Sebastian
+San Sebastian - Bilbao
+San Sebastian - Vitoria
+San Sebastian - Pamplona
+Bilbao - San Sebastian
+Bilbao - Vitoria
+Bilbao - Santander
+La Coruña - Lugo
+La Coruña - Oviedo
+La Coruña - Pontevedra
+Pontevedra - La Coruña
+Pontevedra - Orense

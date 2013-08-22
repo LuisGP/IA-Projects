@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="javadoc">
+<target name="javadoc">
+<javadoc access="private" additionalparam=" &quot;.\src&quot;;&quot;.\src\csp&quot;;&quot;.\src\nreinas&quot;;&quot;.\src\userInterface&quot;&#13;&#10;" author="true" classpath="." destdir="doc" doctitle="NReinas con CSP genérica" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="nreinas,csp,userInterface" source="1.3" sourcefiles="src/nreinas.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+</target>
+</project>

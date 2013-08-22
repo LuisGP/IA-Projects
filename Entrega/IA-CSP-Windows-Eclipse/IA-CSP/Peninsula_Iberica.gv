@@ -1,0 +1,41 @@
+-- Esto es un comentario, las lineas establecen
+-- ciudad de inicio y ciudad de fin de un "camino"
+-- que se toman como unidireccionales, por tanto,
+-- para que sean bidireccionales se deberan poner los
+-- dos sentidos
+-- Para que la representacion sea adecuada, las ciudades han de
+-- aparecer de norte a sur y de oeste a este
+Coruña - Bilbao
+Bilbao - Barcelona
+Barcelona - Valencia
+Lisboa - Badajoz
+Madrid - Barcelona
+Madrid - Valencia
+Madrid - Bilbao
+Alicante - Valencia
+Barcelona - Bilbao
+Barcelona - Madrid
+Bilbao - Madrid
+Valencia - Madrid
+Valencia - Barcelona
+Valencia - Alicante
+Sevilla - Alicante
+Sevilla - Madrid
+Madrid - Sevilla
+Alicante - Sevilla
+Granada - Sevilla
+Granada - Alicante
+Granada - Madrid
+Madrid - Granada
+Sevilla - Granada
+Alicante - Granada
+Badajoz - Madrid
+Badajoz - Sevilla
+Sevilla - Badajoz
+Madrid - Badajoz
+Coruña - Madrid
+Coruña - Lisboa
+Madrid - Coruña
+Bilbao - Coruña
+Lisboa - Coruña
+Badajoz - Lisboa

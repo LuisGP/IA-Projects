@@ -1,0 +1,9 @@
+-- Esto es un comentario, las lineas establecen
+-- ciudad de inicio y ciudad de fin de un "camino"
+-- que se toman como unidireccionales, por tanto,
+-- para que sean bidireccionales se deberan poner los
+-- dos sentidos
+A - B
+D - A
+B - C
+C - D
